@@ -1,3 +1,4 @@
 # ZenDrive
-https://drive.google.com/open?id=1miUT1pNb-Afxc8x5a5G_OJwkTRMLP-vs&usp=drive_copy
+![Logo](https://github.com/user-attachments/assets/e48a9f90-74a2-4c9b-951b-6620248afe99)
+
 Distracted Driver Detection for Safety
