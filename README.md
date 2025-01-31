@@ -79,8 +79,13 @@ Tools Used
 ●	Matplotlib & Seaborn – For data visualization
 
 ________________________________________
+
 Next Steps
+
 ●	Complete bounding box annotations for all distraction classes.
+
 ●	Analyze object positioning in images to understand distraction trends.
+
 ●	Identify patterns that could improve dataset insights.
+
 
